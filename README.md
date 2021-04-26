@@ -10,4 +10,4 @@ Make some Calls for __declspec(dllexport) BOOL APIENTRY DllMain( HMODULE hModule
                        LPVOID lpReserved
                      )
 
-discord for ask : Earth#8641
+discord for ask : Sheridan#7777
